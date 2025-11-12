@@ -1,3 +1,3 @@
-# Semantic-Mapping-and-ICP-Registration-using-KITTI-Dataset
+# Semantic-Mapping-and-ICP-Registration
 
 Ongoing updates and improvements
